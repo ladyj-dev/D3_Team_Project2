@@ -1,0 +1,188 @@
+price,points,variety,winery,province,country,lat,lng
+85,97,Cabernet Sauvignon,Abeja,Washington,US,46.08734896,-118.2255228
+130,97,Cabernet Sauvignon,Alpha Omega,California,US,38.47070948,-122.4284246
+125,97,Sangiovese,Altesino,Tuscany,Italy,43.10272554,11.49138268
+115,97,Red Blend,Antinori,Tuscany,Italy,43.61275733,11.19130707
+90,97,Pinot Noir,Arista,California,US,38.52421475,-122.8679891
+120,97,Bordeaux-style Red Blend,Arkenstone,California,US,38.56499553,-122.463911
+250,97,Cabernet Sauvignon,Au Sommet,California,US,38.44352341,-122.2425097
+170,97,White Blend,Avignonesi,Tuscany,Italy,43.17419131,11.93445678
+55,97,Cabernet Sauvignon,Betz Family,Washington,US,47.71924333,-122.1314005
+60,97,Cabernet Sauvignon,Betz Family,Washington,US,47.71924333,-122.1314005
+68,97,Cabernet Sauvignon,Betz Family,Washington,US,47.71924333,-122.1314005
+85,97,Cabernet Sauvignon,Black Coyote,California,US,38.31977903,-122.2256801
+90,97,Bordeaux-style Red Blend,Blackbird Vineyards,California,US,38.29946003,-122.2806237
+120,97,Malbec,Bodega Catena Zapata,Mendoza Province,Argentina,-33.16668614,-68.9024718
+88,97,Monastrell,Bodegas Guti�rrez de la Vega,Levante,Spain,39.6824,2.7168
+250,97,Tempranillo,Bodegas Roda,Northern Spain,Spain,42.585859,-2.843271134
+260,97,Champagne Blend,Bollinger,Champagne,France,49.07818462,3.9650023
+275,97,Bordeaux-style Red Blend,BOND,California,US,38.5109751,-122.400027
+55,97,Red Blend,Buty,Washington,US,46.08780245,-118.2698039
+85,97,Muscat,Campbells,Victoria,Australia,-36.0608846,146.4359125
+97,97,Muscat,Campbells,Victoria,Australia,-36.0608846,146.4359125
+85,97,Tokay,Campbells,Victoria,Australia,-36.0608846,146.4359125
+55,97,Sangiovese Grosso,Capanna,Tuscany,Italy,43.9834924,11.33687136
+250,97,Cabernet Sauvignon,Cardinale,California,US,38.92189815,-119.2958656
+79,97,Sangiovese Grosso,Casanova di Neri,Tuscany,Italy,43.0579881,11.52638883
+80,97,Sangiovese Grosso,Casanova di Neri,Tuscany,Italy,43.0579881,11.52638883
+180,97,Merlot,Castello di Ama,Tuscany,Italy,43.44227222,11.38822241
+130,97,Cabernet Sauvignon,Caymus,California,US,38.47039817,-122.3943474
+136,97,Cabernet Sauvignon,Caymus,California,US,38.47039817,-122.3943474
+80,97,Cabernet Sauvignon,Cayuse,Oregon,US,45.96229531,-118.4233261
+70,97,Syrah,Cayuse,Oregon,US,45.96229531,-118.4233261
+85,97,Syrah,Cayuse,Oregon,US,45.96229531,-118.4233261
+145,97,Bordeaux-style Red Blend,ChÃ¢teau Cos d'Estournel,Bordeaux,France,45.2315,-0.7727
+90,97,Bordeaux-style Red Blend,ChÃ¢teau Figeac,Bordeaux,France,44.9135,-0.1903
+330,97,Bordeaux-style Red Blend,ChÃ¢teau Haut-Brion,Bordeaux,France,44.8117,-0.5964
+1100,97,Bordeaux-style Red Blend,ChÃ¢teau La Mission Haut-Brion,Bordeaux,France,44.8169,-0.6057
+698,97,Bordeaux-style White Blend,ChÃ¢teau La Mission Haut-Brion,Bordeaux,France,44.8169,-0.6057
+150,97,Bordeaux-style Red Blend,ChÃ¢teau LÃ©oville Las Cases,Bordeaux,France,45.1647,-0.7378
+190,97,Bordeaux-style Red Blend,ChÃ¢teau LÃ©oville Las Cases,Bordeaux,France,45.1647,-0.7378
+345,97,Bordeaux-style Red Blend,ChÃ¢teau Lafite Rothschild,Bordeaux,France,45.2258,-0.7716
+660,97,Bordeaux-style Red Blend,ChÃ¢teau Latour,Bordeaux,France,42.7678,2.6601
+300,97,Bordeaux-style Red Blend,ChÃ¢teau Margaux,Bordeaux,France,45.0460,-0.6634
+450,97,Bordeaux-style Red Blend,ChÃ¢teau Margaux,Bordeaux,France,45.0460,-0.6634
+90,97,Bordeaux-style White Blend,ChÃ¢teau Suduiraut,Bordeaux,France,44.5569,-0.3174
+170,97,Bordeaux-style Red Blend,ChÃ¢teau Troplong Mondot,Bordeaux,France,44.8901,-0.1394
+300,97,Muscadel,Chambers Rosewood Vineyards,Victoria,Australia,-36.04395429,146.4518399
+120,97,Syrah,Charles Smith,Washington,US,47.6927088,-121.889555
+85,97,Pinot Noir,Cobb,California,US,38.39782588,-122.9956279
+140,97,Bordeaux-style Red Blend,Continuum,California,US,38.48371951,-122.3516986
+175,97,Cabernet Sauvignon,Diamond Creek,California,US,38.56564614,-122.5717237
+281,97,Pinot Noir,Domaine Bruno Clair,Burgundy,France,47.27268571,4.992398316
+100,97,Bordeaux-style White Blend,Domaine de Chevalier,Bordeaux,France,44.72051243,-0.62955804
+96,97,Syrah,Domaine Jamet,RhÃ´ne Valley,France,45.51654152,4.795032606
+410,97,Chardonnay,Domaine Leflaive,Burgundy,France,46.38243825,4.800586439
+430,97,Chardonnay,Domaine Leflaive,Burgundy,France,46.38243825,4.800586439
+451,97,Chardonnay,Domaine Leflaive,Burgundy,France,46.38243825,4.800586439
+550,97,Chardonnay,Domaine Leflaive,Burgundy,France,46.38243825,4.800586439
+574,97,Chardonnay,Domaine Leflaive,Burgundy,France,46.38243825,4.800586439
+269,97,Pinot Gris,Domaine Zind-Humbrecht,Alsace,France,48.08431564,7.297189002
+250,97,Riesling,Dr. Pauly Bergweiler,Mosel-Saar-Ruwer,Germany,49.9153787,7.076114103
+50,97,Chardonnay,Dutton-Goldfield,California,US,38.43796177,-122.8546855
+150,97,Tinto Fino,Emilio Moro,Northern Spain,Spain,41.643583,-4.148166242
+180,97,Tinto Fino,Emilio Moro,Northern Spain,Spain,41.643583,-4.148166242
+42,97,Chardonnay,Failla,California,US,38.54902401,-122.4887117
+60,97,Pinot Noir,Failla,California,US,38.54902401,-122.4887117
+70,97,Pinot Noir,Failla,California,US,38.54902401,-122.4887117
+100,97,Merlot,Fattoria Petrolo,Tuscany,Italy,43.47147682,11.57255227
+70,97,Chardonnay,Flowers,California,US,38.56495179,-122.8705598
+210,97,Nebbiolo,Gaja,Piedmont,Italy,44.72612919,8.081014048
+215,97,Nebbiolo,Gaja,Piedmont,Italy,44.72612919,8.081014048
+190,97,Cabernet Sauvignon,Gandona,California,US,38.48365694,-122.3542277
+245,97,Riesling,Geh. Rat Dr. von Bassermann-Jordan,Pfalz,Germany,49.40865649,8.187311218
+75,97,Pinot Noir,Goldeneye,California,US,39.05830256,-123.4301938
+85,97,Cabernet Sauvignon,Goldschmidt,California,US,38.67399686,-122.9228972
+150,97,Bordeaux-style Red Blend,Harlan Estate,California,US,38.42121153,-122.3987013
+185,97,Champagne Blend,Henriot,Champagne,France,52.90459241,37.79277402
+100,97,Cabernet Sauvignon,Hestan,California,US,38.40362137,-122.3606952
+189,97,Sparkling Blend,Iron Horse,California,US,38.45692312,-122.897417
+135,97,Cabernet Sauvignon,Janzen,California,US,38.46661863,-122.4241577
+130,97,Cabernet Sauvignon,Jarvis,California,US,38.3555672,-122.2143398
+150,97,Cabernet Sauvignon,JCB,California,US,38.40537104,-122.3443186
+639,97,Pinot Noir,Joseph Drouhin,Burgundy,France,47.02609549,4.846734081
+200,97,Bordeaux-style Red Blend,Joseph Phelps,California,US,38.50331256,-122.4249774
+200,97,Bordeaux-style Red Blend,Joseph Phelps,California,US,38.50331256,-122.4249774
+225,97,Cabernet Sauvignon,Joseph Phelps,California,US,38.50331256,-122.4249774
+52,97,Pinot Noir,Joseph Swan Vineyards,California,US,38.48388036,-122.8469136
+70,97,Syrah,K Vintners,Washington,US,46.08601174,-118.249623
+65,97,Pinot Noir,Ken Wright,Oregon,US,45.29509004,-123.174571
+125,97,Bordeaux-style Red Blend,Kendall-Jackson,California,US,38.50734388,-122.7699726
+90,97,Chardonnay,Kracher,Burgenland,Austria,47.74538559,16.82944551
+111,97,Chardonnay,Kracher,Burgenland,Austria,47.74538559,16.82944551
+125,97,Scheurebe,Kracher,Burgenland,Austria,47.74538559,16.82944551
+70,97,Cabernet Sauvignon,Krutz,California,US,38.47212396,-122.7396835
+65,97,Cabernet Sauvignon,Lancaster,California,US,38.62625124,-122.7717756
+130,97,Cabernet Franc,Le Macchiole,Tuscany,Italy,43.20830884,10.61385053
+315,97,Merlot,Le Macchiole,Tuscany,Italy,43.20830884,10.61385053
+160,97,Syrah,Le Macchiole,Tuscany,Italy,43.20830884,10.61385053
+110,97,Cabernet Blend,Leonetti Cellar,Washington,US,46.0568156,-118.2927756
+85,97,Cabernet Sauvignon,Leonetti Cellar,Washington,US,46.0568156,-118.2927756
+88,97,Cabernet Sauvignon,Leonetti Cellar,Washington,US,46.0568156,-118.2927756
+90,97,Picolit,Livio Felluga,Northeastern Italy,Italy,45.97306392,13.46012344
+330,97,Chardonnay,Louis Jadot,Burgundy,France,47.03813452,4.843854417
+95,97,Pinot Noir,Louis Jadot,Burgundy,France,47.03813452,4.843854417
+260,97,Pinot Noir,Louis Jadot,Burgundy,France,47.03813452,4.843854417
+288,97,Pinot Noir,Louis Jadot,Burgundy,France,47.03813452,4.843854417
+300,97,Pinot Noir,Louis Jadot,Burgundy,France,47.03813452,4.843854417
+468,97,Pinot Noir,Louis Jadot,Burgundy,France,47.03813452,4.843854417
+229,97,Champagne Blend,Louis Roederer,Champagne,France,49.2600713,4.03623673
+249,97,Champagne Blend,Louis Roederer,Champagne,France,49.2600713,4.03623673
+93,97,Sangiovese Grosso,Luce della Vite,Tuscany,Italy,43.039298,11.40836358
+70,97,Pinot Noir,Lynmar,California,US,38.44277463,-122.8428991
+100,97,Pinot Noir,Lynmar,California,US,38.44277463,-122.8428991
+95,97,Red Blend,Marchesi Antinori,Tuscany,Italy,43.6156271,11.19246156
+102,97,Red Blend,Marchesi Antinori,Tuscany,Italy,43.6156271,11.19246156
+325,97,Red Blend,Marchesi Antinori,Tuscany,Italy,43.6156271,11.19246156
+100,97,Sangiovese,Marchesi de' Frescobaldi,Tuscany,Italy,43.67171614,11.09578328
+550,97,Merlot,Masseto,Tuscany,Italy,43.16029828,10.61057222
+52,97,Pinot Noir,Melville,California,US,34.74260093,-120.1597425
+54,97,Pinot Noir,Merry Edwards,California,US,38.43548475,-122.8538718
+90,97,Cabernet Sauvignon,Napa Angel,California,US,38.36928997,-122.3240387
+100,97,Red Blend,Niebaum-Coppola,California,US,38.45032528,-122.4331933
+80,97,Port,Niepoort,Portugal,Portugal,41.14903878,-7.640096596
+95,97,Port,Niepoort,Port,Portugal,41.14903878,-7.640096596
+240,97,Red Blend,Ornellaia,Tuscany,Italy,43.21423701,10.61907412
+195,97,Bordeaux-style Red Blend,Ovid,California,US,38.46152313,-122.3403535
+150,97,Cabernet Sauvignon,Paul Hobbs,California,US,38.44058414,-122.8552125
+225,97,Cabernet Sauvignon,Penfolds,South Australia,Australia,-34.44207772,139.105445
+150,97,Shiraz,Penfolds,South Australia,Australia,-34.44207772,139.105445
+600,97,Shiraz,Penfolds,South Australia,Australia,-34.44207772,139.105445
+275,97,Champagne Blend,Pol Roger,Champagne,France,49.04067091,3.964082419
+95,97,Cabernet Sauvignon,Quilceda Creek,Washington,US,47.94927689,-122.0773571
+100,97,Portuguese Red,Quinta do Vale MeÃ£o,Douro,Portugal,41.1544,-7.1179
+95,97,Syrah,QupÃ©,California,US,38.5132,-122.7887
+65,97,Chardonnay,Ramey,California,US,38.60411277,-122.8605049
+65,97,Cabernet Sauvignon,Redmon,California,US,38.50059129,-122.455054
+120,97,Red Blend,Ridge,California,US,37.35117714,-122.0178084
+612,97,Riesling,Robert Weil,Rheingau,Germany,50.04160091,8.089119871
+60,97,Chardonnay,Rochioli,California,US,38.53590477,-122.8651521
+350,97,Chardonnay,Salon,Champagne,France,48.94659767,4.018617369
+65,97,Tempranillo Blend,San Vicente,Northern Spain,Spain,42.56417081,-2.755098863
+445,97,Riesling,Schloss Johannisberger,Rheingau,Germany,50.0005233,7.986676949
+486,97,Riesling,Schloss Johannisberger,Rheingau,Germany,50.0005233,7.986676949
+175,97,Champagne Blend,Schramsberg,California,US,38.55018599,-122.5344506
+80,97,Pinot Noir,Sea Smoke,California,US,34.68159628,-120.3731923
+85,97,Pinot Noir,Semper,California,US,38.5824621,-122.5596265
+50,97,Pinot Noir,Sequana,California,US,38.40777745,-122.8352222
+190,97,Cabernet Sauvignon,Shafer,California,US,38.42169313,-122.3247343
+225,97,Cabernet Sauvignon,Shafer,California,US,38.42169313,-122.3247343
+110,97,Bordeaux-style Red Blend,Signorello,California,US,38.37127037,-122.2938366
+130,97,Cabernet Sauvignon,Spottswoode,California,US,38.50058173,-122.4772277
+195,97,Cabernet Sauvignon,Stag's Leap Wine Cellars,California,US,38.41470807,-122.3183922
+75,97,Cabernet Sauvignon,Stonestreet,California,US,38.66321899,-122.8138768
+70,97,Pinot Noir,Talley,California,US,35.17945694,-120.5214585
+225,97,Port,Taylor Fladgate,Port,Portugal,41.13446893,-8.612741987
+240,97,Merlot,Tenuta dell'Ornellaia,Tuscany,Italy,43.04635261,11.49918565
+460,97,Merlot,Tenuta dell'Ornellaia,Tuscany,Italy,43.04635261,11.49918565
+200,97,Red Blend,Tenuta dell'Ornellaia,Tuscany,Italy,43.04635261,11.49918565
+200,97,Red Blend,Tenuta dell'Ornellaia,Tuscany,Italy,43.04635261,11.49918565
+215,97,Red Blend,Tenuta dell'Ornellaia,Tuscany,Italy,43.04635261,11.49918565
+240,97,Red Blend,Tenuta dell'Ornellaia,Tuscany,Italy,43.04635261,11.49918565
+190,97,Red Blend,Tenuta San Guido,Tuscany,Italy,43.23241505,10.60063566
+220,97,Red Blend,Tenuta San Guido,Tuscany,Italy,43.23241505,10.60063566
+227,97,Red Blend,Tenuta San Guido,Tuscany,Italy,43.23241505,10.60063566
+227,97,Tinta de Toro,Teso La Monja,Northern Spain,Spain,41.45564496,-5.445155256
+150,97,Bordeaux-style Red Blend,The Maiden,California,US,43.23240723,10.6005391
+105,97,Shiraz,Torbreck,South Australia,Australia,-34.47631789,138.9526178
+50,97,Cabernet Sauvignon,Trefethen,California,US,38.35671114,-122.3226488
+350,97,Merlot,Tua Rita,Tuscany,Italy,43.06422453,10.69156402
+130,97,Sangiovese,Valdicava,Tuscany,Italy,43.07698994,11.49259244
+208,97,Champagne Blend,Veuve Clicquot Ponsardin,Champagne,France,48.24164583,5.118783267
+150,97,Tempranillo,ViÃ±edos de Paganos,Northern Spain,Spain,42.55790582,-2.605660358
+130,97,Nebbiolo,Vietti,Piedmont,Italy,44.62450726,7.981125138
+130,97,Bordeaux-style Red Blend,Vieux ChÃ¢teau Certan,Bordeaux,France,44.9271,-0.1974
+150,97,Cabernet Sauvignon,Vine Cliff,California,US,38.44790421,-122.3482437
+250,97,Riesling,Von Othegraven,Mosel-Saar-Ruwer,Germany,49.6710893,6.580581356
+100,97,Red Blend,Von Strasser,California,US,38.58786385,-122.572344
+95,97,Chardonnay,William FÃ¨vre,Burgundy,France,47.81366047,3.803967328
+50,97,Chardonnay,Williams Selyem,California,US,38.52118296,-122.8661558
+59,97,Pinot Noir,Williams Selyem,California,US,38.52118296,-122.8661558
+72,97,Pinot Noir,Williams Selyem,California,US,38.52118296,-122.8661558
+75,97,Pinot Noir,Williams Selyem,California,US,38.52118296,-122.8661558
+78,97,Pinot Noir,Williams Selyem,California,US,38.52118296,-122.8661558
+82,97,Pinot Noir,Williams Selyem,California,US,38.52118296,-122.8661558
+85,97,Pinot Noir,Williams Selyem,California,US,38.52118296,-122.8661558
+95,97,Pinot Noir,Williams Selyem,California,US,38.52118296,-122.8661558
+125,97,Pinot Noir,Williams Selyem,California,US,38.52118296,-122.8661558
+625,97,Cabernet Sauvignon,Yao Ming,California,US,38.28844511,-122.2894188
