@@ -2,10 +2,10 @@
 # D3_Team_Project2_Proposal
 Using ETL, Javascript, HTML, and interactive elements to analyze and display data.
 
-![1.png](1.png)
+![Proposal/1.png](Proposal/1.png)
 
 
-![2.png](2.png)
+![Proposal/2.png](Proposal/2.png)
 
 
 ### The Why
@@ -56,14 +56,14 @@ Using ETL, Javascript, HTML, and interactive elements to analyze and display dat
   instead of plots (Visuals) with a drop down of the subject that particular visual analyzes. For example location, variety and wineries, price and country, etc.          
  
      
-![hierarchy_chart_inspiration.png](hierarchy_chart_inspiration.png)
+![Proposal/hierarchy_chart_inspiration.png](Proposal/hierarchy_chart_inspiration.png)
 
-![inspiration_for_winemap.PNG](inspiration_for_winemap.PNG)
+![Proposal/inspiration_for_winemap.PNG](Proposal/inspiration_for_winemap.PNG)
 
-![pie_hierarchy_chart_inspiration.png](pie_hierarchy_chart_inspiration.png)
+![Proposal/pie_hierarchy_chart_inspiration.png](Proposal/pie_hierarchy_chart_inspiration.png)
 
 
-![landingResize.png](landingResize.png)
+![Proposal/landingResize.png](Proposal/landingResize.png)
     
 
 [https://github.com/ladyj-dev/D3_Team_Project2.git](https://github.com/ladyj-dev/D3_Team_Project2.git)
