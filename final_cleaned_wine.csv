@@ -169,13 +169,13 @@ price,points,variety,winery,province,country,lat,lng
 350,97,Merlot,Tua Rita,Tuscany,Italy,43.06422453,10.69156402
 130,97,Sangiovese,Valdicava,Tuscany,Italy,43.07698994,11.49259244
 208,97,Champagne Blend,Veuve Clicquot Ponsardin,Champagne,France,48.24164583,5.118783267
-150,97,Tempranillo,ViÃ±edos de Paganos,Northern Spain,Spain,,
+150,97,Tempranillo,ViÃ±edos de Paganos,Northern Spain,Spain,42.55790582,-2.605660358
 130,97,Nebbiolo,Vietti,Piedmont,Italy,44.62450726,7.981125138
-130,97,Bordeaux-style Red Blend,Vieux ChÃ¢teau Certan,Bordeaux,France,,
+130,97,Bordeaux-style Red Blend,Vieux ChÃ¢teau Certan,Bordeaux,France,44.9271,-0.1974
 150,97,Cabernet Sauvignon,Vine Cliff,California,US,38.44790421,-122.3482437
 250,97,Riesling,Von Othegraven,Mosel-Saar-Ruwer,Germany,49.6710893,6.580581356
 100,97,Red Blend,Von Strasser,California,US,38.58786385,-122.572344
-95,97,Chardonnay,William FÃ¨vre,Burgundy,France,,
+95,97,Chardonnay,William FÃ¨vre,Burgundy,France,47.81366047,3.803967328
 50,97,Chardonnay,Williams Selyem,California,US,38.52118296,-122.8661558
 59,97,Pinot Noir,Williams Selyem,California,US,38.52118296,-122.8661558
 72,97,Pinot Noir,Williams Selyem,California,US,38.52118296,-122.8661558
