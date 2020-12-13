@@ -65,6 +65,50 @@
 
   <!-- svg goes here #myDiv -->
   <div id="myDiv"></div>
+  <div class="container">
+    <div class="row margin-top-50">
+      <div class="col-md-2">
+        <aside class="filters">
+          <div class="panel panel-default">
+            <div class="panel-heading">Filter Search</div>
+            <div class="panel-body">
+              <form>
+                <div class="form-group">
+                  <ul class="list-group" id="filters">
+                    <li class="filter list-group-item">
+                      <label for="date">Placeholder</label>
+                      <input class="form-control" id="variety" type="text" placeholder="Pinot Noir">
+                    </li>
+                  </ul>
+                </div>
+                <button id="filter-btn" type="button" class="btn btn-default">Filter Table</button>
+              </form>
+            </div>
+          </div>
+        </aside>
+      </div>
+      <div class="col-md-10">
+        <div id="table-area" class="">
+          <table id="ufo-table" class="table table-striped">
+            <thead>
+              <tr>
+                <th class="table-head">Price</th>
+                <th class="table-head">Points</th>
+                <th class="table-head">Variety</th>
+                <th class="table-head">Winery</th>
+                <th class="table-head">Province</th>
+                <th class="table-head">Country</th>
+                <th class="table-head">Latitude</th>
+                <th class="table-head">Longitude</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
@@ -93,6 +137,10 @@
   <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
   <script src="assets/vendor/typed.js/typed.min.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+  <script src="assets/js/arica_ap.js"></script>
+  <script src="assets/js/aricadata.js"></script>
+  
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
