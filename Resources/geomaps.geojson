@@ -1,0 +1,2810 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2255228,46.08734896 ]
+    },
+    "properties": {
+    "price":85,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Abeja",
+    "province":"Washington",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4284246,38.47070948 ]
+    },
+    "properties": {
+    "price":130,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Alpha Omega",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.49138268,43.10272554 ]
+    },
+    "properties": {
+    "price":125,
+    "points":97,
+    "variety":"Sangiovese",
+    "winery":"Altesino",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.19130707,43.61275733 ]
+    },
+    "properties": {
+    "price":115,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Antinori",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8679891,38.52421475 ]
+    },
+    "properties": {
+    "price":90,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Arista",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.463911,38.56499553 ]
+    },
+    "properties": {
+    "price":120,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"Arkenstone",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2425097,38.44352341 ]
+    },
+    "properties": {
+    "price":250,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Au Sommet",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.93445678,43.17419131 ]
+    },
+    "properties": {
+    "price":170,
+    "points":97,
+    "variety":"White Blend",
+    "winery":"Avignonesi",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1314005,47.71924333 ]
+    },
+    "properties": {
+    "price":55,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Betz Family",
+    "province":"Washington",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1314005,47.71924333 ]
+    },
+    "properties": {
+    "price":60,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Betz Family",
+    "province":"Washington",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1314005,47.71924333 ]
+    },
+    "properties": {
+    "price":68,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Betz Family",
+    "province":"Washington",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2256801,38.31977903 ]
+    },
+    "properties": {
+    "price":85,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Black Coyote",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2806237,38.29946003 ]
+    },
+    "properties": {
+    "price":90,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"Blackbird Vineyards",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.9024718,-33.16668614 ]
+    },
+    "properties": {
+    "price":120,
+    "points":97,
+    "variety":"Malbec",
+    "winery":"Bodega Catena Zapata",
+    "province":"Mendoza Province",
+    "country":"Argentina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7168,39.6824 ]
+    },
+    "properties": {
+    "price":88,
+    "points":97,
+    "variety":"Monastrell",
+    "winery":"Bodegas Guti�rrez de la Vega",
+    "province":"Levante",
+    "country":"Spain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.843271134,42.585859 ]
+    },
+    "properties": {
+    "price":250,
+    "points":97,
+    "variety":"Tempranillo",
+    "winery":"Bodegas Roda",
+    "province":"Northern Spain",
+    "country":"Spain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.9650023,49.07818462 ]
+    },
+    "properties": {
+    "price":260,
+    "points":97,
+    "variety":"Champagne Blend",
+    "winery":"Bollinger",
+    "province":"Champagne",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.400027,38.5109751 ]
+    },
+    "properties": {
+    "price":275,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"BOND",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2698039,46.08780245 ]
+    },
+    "properties": {
+    "price":55,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Buty",
+    "province":"Washington",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.4359125,-36.0608846 ]
+    },
+    "properties": {
+    "price":85,
+    "points":97,
+    "variety":"Muscat",
+    "winery":"Campbells",
+    "province":"Victoria",
+    "country":"Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.4359125,-36.0608846 ]
+    },
+    "properties": {
+    "price":97,
+    "points":97,
+    "variety":"Muscat",
+    "winery":"Campbells",
+    "province":"Victoria",
+    "country":"Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.4359125,-36.0608846 ]
+    },
+    "properties": {
+    "price":85,
+    "points":97,
+    "variety":"Tokay",
+    "winery":"Campbells",
+    "province":"Victoria",
+    "country":"Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.33687136,43.9834924 ]
+    },
+    "properties": {
+    "price":55,
+    "points":97,
+    "variety":"Sangiovese Grosso",
+    "winery":"Capanna",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2958656,38.92189815 ]
+    },
+    "properties": {
+    "price":250,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Cardinale",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.52638883,43.0579881 ]
+    },
+    "properties": {
+    "price":79,
+    "points":97,
+    "variety":"Sangiovese Grosso",
+    "winery":"Casanova di Neri",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.52638883,43.0579881 ]
+    },
+    "properties": {
+    "price":80,
+    "points":97,
+    "variety":"Sangiovese Grosso",
+    "winery":"Casanova di Neri",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.38822241,43.44227222 ]
+    },
+    "properties": {
+    "price":180,
+    "points":97,
+    "variety":"Merlot",
+    "winery":"Castello di Ama",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3943474,38.47039817 ]
+    },
+    "properties": {
+    "price":130,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Caymus",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3943474,38.47039817 ]
+    },
+    "properties": {
+    "price":136,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Caymus",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4233261,45.96229531 ]
+    },
+    "properties": {
+    "price":80,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Cayuse",
+    "province":"Oregon",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4233261,45.96229531 ]
+    },
+    "properties": {
+    "price":70,
+    "points":97,
+    "variety":"Syrah",
+    "winery":"Cayuse",
+    "province":"Oregon",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4233261,45.96229531 ]
+    },
+    "properties": {
+    "price":85,
+    "points":97,
+    "variety":"Syrah",
+    "winery":"Cayuse",
+    "province":"Oregon",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.7727,45.2315 ]
+    },
+    "properties": {
+    "price":145,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"ChÃ¢teau Cos d'Estournel",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1903,44.9135 ]
+    },
+    "properties": {
+    "price":90,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"ChÃ¢teau Figeac",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.5964,44.8117 ]
+    },
+    "properties": {
+    "price":330,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"ChÃ¢teau Haut-Brion",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.6057,44.8169 ]
+    },
+    "properties": {
+    "price":1100,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"ChÃ¢teau La Mission Haut-Brion",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.6057,44.8169 ]
+    },
+    "properties": {
+    "price":698,
+    "points":97,
+    "variety":"Bordeaux-style White Blend",
+    "winery":"ChÃ¢teau La Mission Haut-Brion",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.7378,45.1647 ]
+    },
+    "properties": {
+    "price":150,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"ChÃ¢teau LÃ©oville Las Cases",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.7378,45.1647 ]
+    },
+    "properties": {
+    "price":190,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"ChÃ¢teau LÃ©oville Las Cases",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.7716,45.2258 ]
+    },
+    "properties": {
+    "price":345,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"ChÃ¢teau Lafite Rothschild",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6601,42.7678 ]
+    },
+    "properties": {
+    "price":660,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"ChÃ¢teau Latour",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.6634,45.046 ]
+    },
+    "properties": {
+    "price":300,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"ChÃ¢teau Margaux",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.6634,45.046 ]
+    },
+    "properties": {
+    "price":450,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"ChÃ¢teau Margaux",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3174,44.5569 ]
+    },
+    "properties": {
+    "price":90,
+    "points":97,
+    "variety":"Bordeaux-style White Blend",
+    "winery":"ChÃ¢teau Suduiraut",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1394,44.8901 ]
+    },
+    "properties": {
+    "price":170,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"ChÃ¢teau Troplong Mondot",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.4518399,-36.04395429 ]
+    },
+    "properties": {
+    "price":300,
+    "points":97,
+    "variety":"Muscadel",
+    "winery":"Chambers Rosewood Vineyards",
+    "province":"Victoria",
+    "country":"Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.889555,47.6927088 ]
+    },
+    "properties": {
+    "price":120,
+    "points":97,
+    "variety":"Syrah",
+    "winery":"Charles Smith",
+    "province":"Washington",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.9956279,38.39782588 ]
+    },
+    "properties": {
+    "price":85,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Cobb",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3516986,38.48371951 ]
+    },
+    "properties": {
+    "price":140,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"Continuum",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5717237,38.56564614 ]
+    },
+    "properties": {
+    "price":175,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Diamond Creek",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.992398316,47.27268571 ]
+    },
+    "properties": {
+    "price":281,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Domaine Bruno Clair",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.62955804,44.72051243 ]
+    },
+    "properties": {
+    "price":100,
+    "points":97,
+    "variety":"Bordeaux-style White Blend",
+    "winery":"Domaine de Chevalier",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.795032606,45.51654152 ]
+    },
+    "properties": {
+    "price":96,
+    "points":97,
+    "variety":"Syrah",
+    "winery":"Domaine Jamet",
+    "province":"RhÃ´ne Valley",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.800586439,46.38243825 ]
+    },
+    "properties": {
+    "price":410,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Domaine Leflaive",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.800586439,46.38243825 ]
+    },
+    "properties": {
+    "price":430,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Domaine Leflaive",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.800586439,46.38243825 ]
+    },
+    "properties": {
+    "price":451,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Domaine Leflaive",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.800586439,46.38243825 ]
+    },
+    "properties": {
+    "price":550,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Domaine Leflaive",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.800586439,46.38243825 ]
+    },
+    "properties": {
+    "price":574,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Domaine Leflaive",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.297189002,48.08431564 ]
+    },
+    "properties": {
+    "price":269,
+    "points":97,
+    "variety":"Pinot Gris",
+    "winery":"Domaine Zind-Humbrecht",
+    "province":"Alsace",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.076114103,49.9153787 ]
+    },
+    "properties": {
+    "price":250,
+    "points":97,
+    "variety":"Riesling",
+    "winery":"Dr. Pauly Bergweiler",
+    "province":"Mosel-Saar-Ruwer",
+    "country":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8546855,38.43796177 ]
+    },
+    "properties": {
+    "price":50,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Dutton-Goldfield",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.148166242,41.643583 ]
+    },
+    "properties": {
+    "price":150,
+    "points":97,
+    "variety":"Tinto Fino",
+    "winery":"Emilio Moro",
+    "province":"Northern Spain",
+    "country":"Spain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.148166242,41.643583 ]
+    },
+    "properties": {
+    "price":180,
+    "points":97,
+    "variety":"Tinto Fino",
+    "winery":"Emilio Moro",
+    "province":"Northern Spain",
+    "country":"Spain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4887117,38.54902401 ]
+    },
+    "properties": {
+    "price":42,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Failla",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4887117,38.54902401 ]
+    },
+    "properties": {
+    "price":60,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Failla",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4887117,38.54902401 ]
+    },
+    "properties": {
+    "price":70,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Failla",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.57255227,43.47147682 ]
+    },
+    "properties": {
+    "price":100,
+    "points":97,
+    "variety":"Merlot",
+    "winery":"Fattoria Petrolo",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8705598,38.56495179 ]
+    },
+    "properties": {
+    "price":70,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Flowers",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.081014048,44.72612919 ]
+    },
+    "properties": {
+    "price":210,
+    "points":97,
+    "variety":"Nebbiolo",
+    "winery":"Gaja",
+    "province":"Piedmont",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.081014048,44.72612919 ]
+    },
+    "properties": {
+    "price":215,
+    "points":97,
+    "variety":"Nebbiolo",
+    "winery":"Gaja",
+    "province":"Piedmont",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3542277,38.48365694 ]
+    },
+    "properties": {
+    "price":190,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Gandona",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.187311218,49.40865649 ]
+    },
+    "properties": {
+    "price":245,
+    "points":97,
+    "variety":"Riesling",
+    "winery":"Geh. Rat Dr. von Bassermann-Jordan",
+    "province":"Pfalz",
+    "country":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.4301938,39.05830256 ]
+    },
+    "properties": {
+    "price":75,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Goldeneye",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.9228972,38.67399686 ]
+    },
+    "properties": {
+    "price":85,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Goldschmidt",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3987013,38.42121153 ]
+    },
+    "properties": {
+    "price":150,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"Harlan Estate",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.79277402,52.90459241 ]
+    },
+    "properties": {
+    "price":185,
+    "points":97,
+    "variety":"Champagne Blend",
+    "winery":"Henriot",
+    "province":"Champagne",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3606952,38.40362137 ]
+    },
+    "properties": {
+    "price":100,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Hestan",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.897417,38.45692312 ]
+    },
+    "properties": {
+    "price":189,
+    "points":97,
+    "variety":"Sparkling Blend",
+    "winery":"Iron Horse",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4241577,38.46661863 ]
+    },
+    "properties": {
+    "price":135,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Janzen",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2143398,38.3555672 ]
+    },
+    "properties": {
+    "price":130,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Jarvis",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3443186,38.40537104 ]
+    },
+    "properties": {
+    "price":150,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"JCB",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.846734081,47.02609549 ]
+    },
+    "properties": {
+    "price":639,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Joseph Drouhin",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4249774,38.50331256 ]
+    },
+    "properties": {
+    "price":200,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"Joseph Phelps",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4249774,38.50331256 ]
+    },
+    "properties": {
+    "price":200,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"Joseph Phelps",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4249774,38.50331256 ]
+    },
+    "properties": {
+    "price":225,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Joseph Phelps",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8469136,38.48388036 ]
+    },
+    "properties": {
+    "price":52,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Joseph Swan Vineyards",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.249623,46.08601174 ]
+    },
+    "properties": {
+    "price":70,
+    "points":97,
+    "variety":"Syrah",
+    "winery":"K Vintners",
+    "province":"Washington",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.174571,45.29509004 ]
+    },
+    "properties": {
+    "price":65,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Ken Wright",
+    "province":"Oregon",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.7699726,38.50734388 ]
+    },
+    "properties": {
+    "price":125,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"Kendall-Jackson",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.82944551,47.74538559 ]
+    },
+    "properties": {
+    "price":90,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Kracher",
+    "province":"Burgenland",
+    "country":"Austria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.82944551,47.74538559 ]
+    },
+    "properties": {
+    "price":111,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Kracher",
+    "province":"Burgenland",
+    "country":"Austria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.82944551,47.74538559 ]
+    },
+    "properties": {
+    "price":125,
+    "points":97,
+    "variety":"Scheurebe",
+    "winery":"Kracher",
+    "province":"Burgenland",
+    "country":"Austria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.7396835,38.47212396 ]
+    },
+    "properties": {
+    "price":70,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Krutz",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.7717756,38.62625124 ]
+    },
+    "properties": {
+    "price":65,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Lancaster",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.61385053,43.20830884 ]
+    },
+    "properties": {
+    "price":130,
+    "points":97,
+    "variety":"Cabernet Franc",
+    "winery":"Le Macchiole",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.61385053,43.20830884 ]
+    },
+    "properties": {
+    "price":315,
+    "points":97,
+    "variety":"Merlot",
+    "winery":"Le Macchiole",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.61385053,43.20830884 ]
+    },
+    "properties": {
+    "price":160,
+    "points":97,
+    "variety":"Syrah",
+    "winery":"Le Macchiole",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2927756,46.0568156 ]
+    },
+    "properties": {
+    "price":110,
+    "points":97,
+    "variety":"Cabernet Blend",
+    "winery":"Leonetti Cellar",
+    "province":"Washington",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2927756,46.0568156 ]
+    },
+    "properties": {
+    "price":85,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Leonetti Cellar",
+    "province":"Washington",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2927756,46.0568156 ]
+    },
+    "properties": {
+    "price":88,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Leonetti Cellar",
+    "province":"Washington",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.46012344,45.97306392 ]
+    },
+    "properties": {
+    "price":90,
+    "points":97,
+    "variety":"Picolit",
+    "winery":"Livio Felluga",
+    "province":"Northeastern Italy",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.843854417,47.03813452 ]
+    },
+    "properties": {
+    "price":330,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Louis Jadot",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.843854417,47.03813452 ]
+    },
+    "properties": {
+    "price":95,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Louis Jadot",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.843854417,47.03813452 ]
+    },
+    "properties": {
+    "price":260,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Louis Jadot",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.843854417,47.03813452 ]
+    },
+    "properties": {
+    "price":288,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Louis Jadot",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.843854417,47.03813452 ]
+    },
+    "properties": {
+    "price":300,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Louis Jadot",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.843854417,47.03813452 ]
+    },
+    "properties": {
+    "price":468,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Louis Jadot",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.03623673,49.2600713 ]
+    },
+    "properties": {
+    "price":229,
+    "points":97,
+    "variety":"Champagne Blend",
+    "winery":"Louis Roederer",
+    "province":"Champagne",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.03623673,49.2600713 ]
+    },
+    "properties": {
+    "price":249,
+    "points":97,
+    "variety":"Champagne Blend",
+    "winery":"Louis Roederer",
+    "province":"Champagne",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.40836358,43.039298 ]
+    },
+    "properties": {
+    "price":93,
+    "points":97,
+    "variety":"Sangiovese Grosso",
+    "winery":"Luce della Vite",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8428991,38.44277463 ]
+    },
+    "properties": {
+    "price":70,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Lynmar",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8428991,38.44277463 ]
+    },
+    "properties": {
+    "price":100,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Lynmar",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.19246156,43.6156271 ]
+    },
+    "properties": {
+    "price":95,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Marchesi Antinori",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.19246156,43.6156271 ]
+    },
+    "properties": {
+    "price":102,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Marchesi Antinori",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.19246156,43.6156271 ]
+    },
+    "properties": {
+    "price":325,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Marchesi Antinori",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.09578328,43.67171614 ]
+    },
+    "properties": {
+    "price":100,
+    "points":97,
+    "variety":"Sangiovese",
+    "winery":"Marchesi de' Frescobaldi",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.61057222,43.16029828 ]
+    },
+    "properties": {
+    "price":550,
+    "points":97,
+    "variety":"Merlot",
+    "winery":"Masseto",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.1597425,34.74260093 ]
+    },
+    "properties": {
+    "price":52,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Melville",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8538718,38.43548475 ]
+    },
+    "properties": {
+    "price":54,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Merry Edwards",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3240387,38.36928997 ]
+    },
+    "properties": {
+    "price":90,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Napa Angel",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4331933,38.45032528 ]
+    },
+    "properties": {
+    "price":100,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Niebaum-Coppola",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.640096596,41.14903878 ]
+    },
+    "properties": {
+    "price":80,
+    "points":97,
+    "variety":"Port",
+    "winery":"Niepoort",
+    "province":"Portugal",
+    "country":"Portugal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.640096596,41.14903878 ]
+    },
+    "properties": {
+    "price":95,
+    "points":97,
+    "variety":"Port",
+    "winery":"Niepoort",
+    "province":"Port",
+    "country":"Portugal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.61907412,43.21423701 ]
+    },
+    "properties": {
+    "price":240,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Ornellaia",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3403535,38.46152313 ]
+    },
+    "properties": {
+    "price":195,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"Ovid",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8552125,38.44058414 ]
+    },
+    "properties": {
+    "price":150,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Paul Hobbs",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.105445,-34.44207772 ]
+    },
+    "properties": {
+    "price":225,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Penfolds",
+    "province":"South Australia",
+    "country":"Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.105445,-34.44207772 ]
+    },
+    "properties": {
+    "price":150,
+    "points":97,
+    "variety":"Shiraz",
+    "winery":"Penfolds",
+    "province":"South Australia",
+    "country":"Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.105445,-34.44207772 ]
+    },
+    "properties": {
+    "price":600,
+    "points":97,
+    "variety":"Shiraz",
+    "winery":"Penfolds",
+    "province":"South Australia",
+    "country":"Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.964082419,49.04067091 ]
+    },
+    "properties": {
+    "price":275,
+    "points":97,
+    "variety":"Champagne Blend",
+    "winery":"Pol Roger",
+    "province":"Champagne",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0773571,47.94927689 ]
+    },
+    "properties": {
+    "price":95,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Quilceda Creek",
+    "province":"Washington",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.1179,41.1544 ]
+    },
+    "properties": {
+    "price":100,
+    "points":97,
+    "variety":"Portuguese Red",
+    "winery":"Quinta do Vale MeÃ£o",
+    "province":"Douro",
+    "country":"Portugal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.7887,38.5132 ]
+    },
+    "properties": {
+    "price":95,
+    "points":97,
+    "variety":"Syrah",
+    "winery":"QupÃ©",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8605049,38.60411277 ]
+    },
+    "properties": {
+    "price":65,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Ramey",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.455054,38.50059129 ]
+    },
+    "properties": {
+    "price":65,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Redmon",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0178084,37.35117714 ]
+    },
+    "properties": {
+    "price":120,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Ridge",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.089119871,50.04160091 ]
+    },
+    "properties": {
+    "price":612,
+    "points":97,
+    "variety":"Riesling",
+    "winery":"Robert Weil",
+    "province":"Rheingau",
+    "country":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8651521,38.53590477 ]
+    },
+    "properties": {
+    "price":60,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Rochioli",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.018617369,48.94659767 ]
+    },
+    "properties": {
+    "price":350,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Salon",
+    "province":"Champagne",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.755098863,42.56417081 ]
+    },
+    "properties": {
+    "price":65,
+    "points":97,
+    "variety":"Tempranillo Blend",
+    "winery":"San Vicente",
+    "province":"Northern Spain",
+    "country":"Spain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.986676949,50.0005233 ]
+    },
+    "properties": {
+    "price":445,
+    "points":97,
+    "variety":"Riesling",
+    "winery":"Schloss Johannisberger",
+    "province":"Rheingau",
+    "country":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.986676949,50.0005233 ]
+    },
+    "properties": {
+    "price":486,
+    "points":97,
+    "variety":"Riesling",
+    "winery":"Schloss Johannisberger",
+    "province":"Rheingau",
+    "country":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5344506,38.55018599 ]
+    },
+    "properties": {
+    "price":175,
+    "points":97,
+    "variety":"Champagne Blend",
+    "winery":"Schramsberg",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.3731923,34.68159628 ]
+    },
+    "properties": {
+    "price":80,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Sea Smoke",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5596265,38.5824621 ]
+    },
+    "properties": {
+    "price":85,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Semper",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8352222,38.40777745 ]
+    },
+    "properties": {
+    "price":50,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Sequana",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3247343,38.42169313 ]
+    },
+    "properties": {
+    "price":190,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Shafer",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3247343,38.42169313 ]
+    },
+    "properties": {
+    "price":225,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Shafer",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2938366,38.37127037 ]
+    },
+    "properties": {
+    "price":110,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"Signorello",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4772277,38.50058173 ]
+    },
+    "properties": {
+    "price":130,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Spottswoode",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3183922,38.41470807 ]
+    },
+    "properties": {
+    "price":195,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Stag's Leap Wine Cellars",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8138768,38.66321899 ]
+    },
+    "properties": {
+    "price":75,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Stonestreet",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5214585,35.17945694 ]
+    },
+    "properties": {
+    "price":70,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Talley",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.612741987,41.13446893 ]
+    },
+    "properties": {
+    "price":225,
+    "points":97,
+    "variety":"Port",
+    "winery":"Taylor Fladgate",
+    "province":"Port",
+    "country":"Portugal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.49918565,43.04635261 ]
+    },
+    "properties": {
+    "price":240,
+    "points":97,
+    "variety":"Merlot",
+    "winery":"Tenuta dell'Ornellaia",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.49918565,43.04635261 ]
+    },
+    "properties": {
+    "price":460,
+    "points":97,
+    "variety":"Merlot",
+    "winery":"Tenuta dell'Ornellaia",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.49918565,43.04635261 ]
+    },
+    "properties": {
+    "price":200,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Tenuta dell'Ornellaia",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.49918565,43.04635261 ]
+    },
+    "properties": {
+    "price":200,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Tenuta dell'Ornellaia",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.49918565,43.04635261 ]
+    },
+    "properties": {
+    "price":215,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Tenuta dell'Ornellaia",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.49918565,43.04635261 ]
+    },
+    "properties": {
+    "price":240,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Tenuta dell'Ornellaia",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.60063566,43.23241505 ]
+    },
+    "properties": {
+    "price":190,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Tenuta San Guido",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.60063566,43.23241505 ]
+    },
+    "properties": {
+    "price":220,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Tenuta San Guido",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.60063566,43.23241505 ]
+    },
+    "properties": {
+    "price":227,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Tenuta San Guido",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.445155256,41.45564496 ]
+    },
+    "properties": {
+    "price":227,
+    "points":97,
+    "variety":"Tinta de Toro",
+    "winery":"Teso La Monja",
+    "province":"Northern Spain",
+    "country":"Spain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.6005391,43.23240723 ]
+    },
+    "properties": {
+    "price":150,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"The Maiden",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.9526178,-34.47631789 ]
+    },
+    "properties": {
+    "price":105,
+    "points":97,
+    "variety":"Shiraz",
+    "winery":"Torbreck",
+    "province":"South Australia",
+    "country":"Australia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3226488,38.35671114 ]
+    },
+    "properties": {
+    "price":50,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Trefethen",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.69156402,43.06422453 ]
+    },
+    "properties": {
+    "price":350,
+    "points":97,
+    "variety":"Merlot",
+    "winery":"Tua Rita",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.49259244,43.07698994 ]
+    },
+    "properties": {
+    "price":130,
+    "points":97,
+    "variety":"Sangiovese",
+    "winery":"Valdicava",
+    "province":"Tuscany",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.118783267,48.24164583 ]
+    },
+    "properties": {
+    "price":208,
+    "points":97,
+    "variety":"Champagne Blend",
+    "winery":"Veuve Clicquot Ponsardin",
+    "province":"Champagne",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.605660358,42.55790582 ]
+    },
+    "properties": {
+    "price":150,
+    "points":97,
+    "variety":"Tempranillo",
+    "winery":"ViÃ±edos de Paganos",
+    "province":"Northern Spain",
+    "country":"Spain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.981125138,44.62450726 ]
+    },
+    "properties": {
+    "price":130,
+    "points":97,
+    "variety":"Nebbiolo",
+    "winery":"Vietti",
+    "province":"Piedmont",
+    "country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1974,44.9271 ]
+    },
+    "properties": {
+    "price":130,
+    "points":97,
+    "variety":"Bordeaux-style Red Blend",
+    "winery":"Vieux ChÃ¢teau Certan",
+    "province":"Bordeaux",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3482437,38.44790421 ]
+    },
+    "properties": {
+    "price":150,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Vine Cliff",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.580581356,49.6710893 ]
+    },
+    "properties": {
+    "price":250,
+    "points":97,
+    "variety":"Riesling",
+    "winery":"Von Othegraven",
+    "province":"Mosel-Saar-Ruwer",
+    "country":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.572344,38.58786385 ]
+    },
+    "properties": {
+    "price":100,
+    "points":97,
+    "variety":"Red Blend",
+    "winery":"Von Strasser",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.803967328,47.81366047 ]
+    },
+    "properties": {
+    "price":95,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"William FÃ¨vre",
+    "province":"Burgundy",
+    "country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8661558,38.52118296 ]
+    },
+    "properties": {
+    "price":50,
+    "points":97,
+    "variety":"Chardonnay",
+    "winery":"Williams Selyem",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8661558,38.52118296 ]
+    },
+    "properties": {
+    "price":59,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Williams Selyem",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8661558,38.52118296 ]
+    },
+    "properties": {
+    "price":72,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Williams Selyem",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8661558,38.52118296 ]
+    },
+    "properties": {
+    "price":75,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Williams Selyem",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8661558,38.52118296 ]
+    },
+    "properties": {
+    "price":78,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Williams Selyem",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8661558,38.52118296 ]
+    },
+    "properties": {
+    "price":82,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Williams Selyem",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8661558,38.52118296 ]
+    },
+    "properties": {
+    "price":85,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Williams Selyem",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8661558,38.52118296 ]
+    },
+    "properties": {
+    "price":95,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Williams Selyem",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8661558,38.52118296 ]
+    },
+    "properties": {
+    "price":125,
+    "points":97,
+    "variety":"Pinot Noir",
+    "winery":"Williams Selyem",
+    "province":"California",
+    "country":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2894188,38.28844511 ]
+    },
+    "properties": {
+    "price":625,
+    "points":97,
+    "variety":"Cabernet Sauvignon",
+    "winery":"Yao Ming",
+    "province":"California",
+    "country":"US"
+    }
+  }
+]
+}
