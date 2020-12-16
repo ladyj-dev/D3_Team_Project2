@@ -1938,7 +1938,7 @@ function runEnter() {
     // console.log(inputValue);
 
     // create a variable to filter data (pulling out dt)
-    var filteredData = tableData.filter(ufo => ufo.datetime === inputValue);
+    var filteredData = tableData.filter(ufo => ufo.variety === inputValue);
 
     // console.log(filteredData);
 
