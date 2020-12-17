@@ -11,7 +11,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
     accessToken: "pk.eyJ1IjoibGl2aWxsYXJhbmRhIiwiYSI6ImNraTZtNHprdjB4ZXMycG53cGFoc3E4aHYifQ.AGwN1CpsOusH0sKpUHKOjg"
 }).addTo(worldMap);
 
-// Link to JSON in Github
+// Link to JSON in Github38.
 var url = "https://raw.githubusercontent.com/ladyj-dev/D3_Team_Project2/main/Resources/geomaps.geojson";
 
 // Dataset Push
@@ -25,15 +25,11 @@ d3.json(url).then(function (response) {
         var winery = response["features"][i]
 
         // Add Each Location
-        if (winery) {
-            L.marker([winery.geometry.coordinates[1], winery.geometry.coordinates[0]])
-                
-                // Bind Winery Name in Popup
-                // .bindPopup("<h3>" + winery.properties.winery + "</h3><h3>Location: " + winery.geometry.coordinates[1] + "," + winery.geometry.coordinates[0] + "</h3>")  
-
-                // Add Markers to Map
-                .addTo(worldMap);
-        }
+        // if (winery) {
+        //     L.marker([winery.geometry.coordinates[1], winery.geometry.coordinates[0]])
+        //         // Add Markers to Map
+        //         .addTo(worldMap);
+        // }
     };
     console.log("BOOM");
 });
@@ -54,4 +50,5 @@ d3.json(url).then(function (response) {
 // }).addTo(map)
 
 // // // POP UP FOR MAP
-              
+// Bind Winery Name in Popup
+// .bindPopup("<h3>" + winery.properties.winery + "<h3><h3>Location: " + winery.geometry.coordinates[1] + "," + winery.geometry.coordinates[0] + "</h3>")                

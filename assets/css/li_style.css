@@ -12,6 +12,13 @@ body {
     justify-content: center;
 }
 
+#myDiv {
+    display: block;
+    height: 300px;
+    width: 100%;
+    top: 300px
+}
+
 a {
   color: #149ddd;
   text-decoration: none;
