@@ -26,6 +26,7 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/tablestyle.css" rel="stylesheet">
 
   
 </head>
@@ -64,18 +65,18 @@
   </header><!-- End Header -->
 
   <!-- svg goes here #myDiv -->
-  <div id="myDiv"></div>
-  <div class="container">
-    <div class="row margin-top-50">
-      <div class="col-md-2">
-        <aside class="filters">
-          <div class="panel panel-default">
-            <div class="panel-heading">Filter Search</div>
-            <div class="panel-body">
-              <form>
-                <div class="form-group">
-                  <ul class="list-group" id="filters">
-                    <li class="filter list-group-item">
+  <div class="wrapper">
+    <div class="container">
+      <div class="row margin-top-50">
+        <div class="col-md-2">
+          <aside class="filters">
+            <div class="panel panel-default">
+              <div class="panel-heading">Filter Search</div>
+              <div class="panel-body">
+                <form>
+                  <div class="form-group">
+                    <ul class="list-group" id="filters">
+                      <li class="filter list-group-item">
                       <label for="variety">Enter Wine Variety</label>
                       <input class="form-control" id="variety" type="text" placeholder="Pinot Noir">
                     </li>
@@ -88,7 +89,7 @@
         </aside>
       </div>
       <div class="col-md-10">
-        <div id="table-area" class="">
+        <div id="table-area" class="table-responsive">
           <table id="ufo-table" class="table table-striped">
             <thead>
               <tr>
