@@ -170,7 +170,7 @@
 	will-change: opacity;
 	}
 .leaflet-fade-anim .leaflet-popup {
-	opacity: 0;
+	opacity: 1;
 	-webkit-transition: opacity 0.2s linear;
 	   -moz-transition: opacity 0.2s linear;
 	        transition: opacity 0.2s linear;
@@ -199,7 +199,7 @@
 	}
 
 .leaflet-zoom-anim .leaflet-zoom-hide {
-	visibility: hidden;
+	visibility: visible;
 	}
 
 

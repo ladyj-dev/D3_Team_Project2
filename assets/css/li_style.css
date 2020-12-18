@@ -8,16 +8,14 @@ body {
 }
 
 .container {
-    display: flex;
-    justify-content: center;
+    background-position: right;
+    justify-content: right;
 }
 
-#myDiv {
-    display: block;
-    height: 300px;
+/* #map {
+    height: 1000px;
     width: 100%;
-    top: 300px
-}
+} */
 
 a {
   color: #149ddd;

@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Specific files
-li_config.js
+config.js
