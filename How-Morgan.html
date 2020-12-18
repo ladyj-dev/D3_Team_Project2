@@ -30,6 +30,91 @@
  
 </head>
 
+<div class="article">
+  <h2>
+      <center>Background to our Data and ETL Process</center>
+  </h2>
+
+  <p> Our dataset was originally a large dataset filled with wine reviews from all over the world.  Like we typically see in the data world, the initial dataset was messy and needed to be cleaned to figure out a plan for further analysis and cleaning.  </p>
+
+  <p> The initial dataset included 129,971 wine reviews with 13 potential pieces of information for each review -- country, description, designation, points, price, province, region 1, region 2, taster name, taster Twitter handle, title, variety, and winery.  In reference to data quality, there was quite a bit of null values in our dataset.  Due to these null values and not necessarily needing certain columns for our planned analysis, we were able to drop these columns: description, designation, region 1, region 2, taster name, taster Twitter handle, and title.  We decided to keep the scores anonymous so didn’t need to keep the taster information.   </p>
+  
+  <!-- Image -->
+  <img src="assets/img/how_1.png" alt="image1" class="center" />
+
+  <p>From an initial analysis of our dataset, the price ranged from $4 to $3,300 with an average of $35.36.  The points given by tasters ranged from 80 to 100 points with an average of $88.45.  </p>
+  <img src="assets/img/how_2.png" alt="image2" class="center" />
+
+
+  <p>From there, we dropped all Null values from the dataset.  That got rid of quite a bit of rows; however, we decided to stick to all wines with a 97 point rating from the taster.  By focusing on one wine rating of 97 points based on wine reviews from all over the world this app takes the veil off of where to find great wine whether you want to spend $40 or $1100 -- whether you want to stay within the United States or from or travel to Australia! It puts the power in people’s hands and allows them to get the most bang for their buck in the following ways:</p>
+
+  <p>**Getting the most value for their money at their desired price point.</p>
+  <P>**Making the most of their winery tour by planning it around wineries with high quality wine.</P>
+  <p>**Allow user to try different varieties of wine but by ensuring consistency of rating and quality allow user to really filter out what kind of wine they enjoy</p>
+  <p>**Ability to visualize what provinces/states have the highest concentration of 97 point wines at their wineries</p>
+  
+  <p>To summarize, we are left with all wines that received a 97-point rating with all of these columns filled out (no null values): country, points, price, province, variety, winery.  One of our developers wanted to do a geomap visualization; therefore, we needed to know the latitude and longitude of all the wineries.  To do so, we created two empty columns in the data frame labeled lat and lng.  </p>
+ 
+  <img src="assets/img/how_3.png" alt="image3" class="center" />
+
+  <p>To get the latitude and longitude, we needed to use Google maps and extract the information.  First, we generated a subset of the data frame that included all UNIQUE winery, province, and country rows with the empty lat and lng columns as well.  From there, we looked up each winery and added its coordinates.  We were left with a data frame of all wineries + coordinates to use to fill out the lat and lng columns in our bigger 97-point wine clean data frame.  </p>
+
+  <img src="assets/img/how_4.png" alt="image4" class="center" />
+
+  <p>We then uploaded both CSVs to Python using Pandas.  Using a for loop, we looped through every row in the unique winery data frame and set the latitude and longitude columns in the cleaned dataset to the rows for that winery.  Here is code used for this section—</p>
+
+  <img src="assets/img/how_5.png" alt="image5" class="center" />
+
+  <p>Now, we have our final cleaned dataset with location information.  The final cleaned 97-point dataset had those 8 columns mentioned above with 187 rows fully filled-out.  In regards to price, our final set ranged from $42 to $1100 with a mean of $184.70.   This was extracted as a CSV to be used in the visualizations in our app.</p>
+
+  <img src="assets/img/how_extra.PNG" alt="imageextra" class="center" />
+
+  <p>Although the app needed CSVs to work properly, we wanted to finish the entire ETL process and load the data into a database using Python.  We decided to use a mySQL connection and import the data into a database and a table.  First, we used a create_server_connection function to do just that – connect to the server.  Then, we created a database called “teamd3_wine_db” to use for the data. </p>
+
+  <img src="assets/img/how_6.png" alt="image6" class="center" />
+
+  <p>From there, we created a table called “wine” to hold the final data frame mentioned above.  From there, we looped through the final data frame row by row and inserted each row into the database table.  Using a cursor and mySQL connection, we do have to execute the insert statement and commit it to the database each insert.  See below—</p>
+
+  <img src="assets/img/how_7.png" alt="image7" class="center" />
+
+  <p>From there, the database was successfully established!  Here is the proof in code and in mySQL. </p>
+
+  <img src="assets/img/how_8.png" alt="image8" class="center" />
+  <img src="assets/img/how_9.png" alt="image9" class="center" />
+
+  <p>For one last bonus part of our project, we did some initial mySQL analysis of the final cleaned dataframe.  See the queries + the results of the queries below--</p>
+
+
+  <p>Top Wine Varieties in our Dataset</p>
+  <img src="assets/img/how_10.png" alt="image10" class="center" />
+  <img src="assets/img/how_11.png" alt="image11" class="center" />
+  <p>Top Countries in our Dataset</p>
+  <img src="assets/img/how_12.png" alt="image12" class="center" />
+  <img src="assets/img/how_13.png" alt="image13" class="center" />
+  <p>Top Provinces/States in our Dataset</p>
+  <img src="assets/img/how_14.png" alt="image14" class="center" />
+  <img src="assets/img/how_15.png" alt="image15" class="center" />
+  <p>Top Wineries in our Dataset</p>
+  <img src="assets/img/how_16.png" alt="image16" class="center" />
+  <img src="assets/img/how_17.png" alt="image17" class="center" />
+  <p>Most Expensive Wine Varieties by Bottle in our Dataset</p>
+  <img src="assets/img/how_18.png" alt="image18" class="center" />
+  <img src="assets/img/how_19.png" alt="image19" class="center" />
+  <p>Most Expensive Wineries by Bottle in our Dataset</p>
+  <img src="assets/img/how_20.png" alt="image20" class="center" />
+  <img src="assets/img/how_21.png" alt="image21" class="center" />
+  <p>Most Expensive Provinces by Bottle in our Dataset</p>
+  <img src="assets/img/how_22.png" alt="image22" class="center" />
+  <img src="assets/img/how_23.png" alt="image23" class="center" />
+  <p>Most Expensive Countries by Bottle in our Dataset</p>
+  <img src="assets/img/how_24.png" alt="image24" class="center" />
+  <img src="assets/img/how_25.png" alt="image25" class="center" />
+
+
+
+</div>
+
+
 <body>
 
   <!-- ======= Mobile nav toggle button ======= -->
@@ -64,8 +149,6 @@
     </div>
   </header><!-- End Header -->
 
-  <!-- svg goes here #myDiv -->
-  <div id="myDiv"></div>
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
