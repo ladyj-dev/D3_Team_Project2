@@ -1,6 +1,7 @@
 
-# D3_Team_Project2_Proposal
-Using ETL, Javascript, HTML, and interactive elements to analyze and display data.
+# D3_Team_Project2_The 97 Point Wine Rating Site
+[https://ladyj-dev.github.io/D3_Team_Project2/](https://ladyj-dev.github.io/D3_Team_Project2/)
+Using ETL, Javascript, HTML, and interactive elements to analyze and display wine data.
 
 ![Proposal/1.png](Proposal/1.png)
 
@@ -42,15 +43,13 @@ Using ETL, Javascript, HTML, and interactive elements to analyze and display dat
    
   #### Front End Web Development - Arica Jackson
 
-  * Proposal/Readme/Slides 
-  
-    [Proposal/final_d3_slides.pdf](Proposal/final_d3_slides.pdf)
-  
-  * Creation of landing page where we can see a summary of the data and a comparison of all of the visuals. And another page where we can view the data used to build them.
+  * Proposal/Readme/Presentation Slides [Proposal/final_d3_slides.pdf](Proposal/final_d3_slides.pdf)
+  * Creation of landing page and interactive data table where we can see a summary of the data and filter it. 
+  * Front End web development (website framework, link analysts pages together via relative paths, main html, main css styling, source images) 
   
 ## Conclusion
  
- * We are building a visualization dashboard website with multiple interactive visuals that update from the same data using the following data set. This data will be               transformed further, as the data viz team is adding lat and long in order to complete the geomap.  [cleaned_data.csv](cleaned_data.csv)             
+ * We are building a visualization dashboard website with multiple interactive visuals that update from the same data using the following data set. This data will be               transformed further, as the data viz team is adding lat and long in order to complete the geomap.  [Proposal/cleaned_data.csv](Proposal/cleaned_data.csv)             
 
  * Our original data set was over 130,000 records. The data set below contains over 180 records. The data viz team is adding lat and long to this data set.
  * Our final transformed data will consist of more than the required 100 records and each of the three visuals will contain user-driven interaction.
@@ -64,10 +63,9 @@ Using ETL, Javascript, HTML, and interactive elements to analyze and display dat
 
 ![Proposal/pie_hierarchy_chart_inspiration.png](Proposal/pie_hierarchy_chart_inspiration.png)
 
-
 ![Proposal/landingResize.png](Proposal/landingResize.png)
     
- [https://ladyj-dev.github.io/D3_Team_Project2/](https://ladyj-dev.github.io/D3_Team_Project2/)
+[https://ladyj-dev.github.io/D3_Team_Project2/](https://ladyj-dev.github.io/D3_Team_Project2/)
 
 
 
