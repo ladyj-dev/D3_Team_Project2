@@ -42,7 +42,9 @@ Using ETL, Javascript, HTML, and interactive elements to analyze and display dat
    
   #### Front End Web Development - Arica Jackson
 
-  * Proposal/Readme/Slides
+  * Proposal/Readme/Slides 
+  
+    [Proposal/final_d3_slides.pdf](Proposal/final_d3_slides.pdf)
   
   * Creation of landing page where we can see a summary of the data and a comparison of all of the visuals. And another page where we can view the data used to build them.
   
@@ -65,8 +67,7 @@ Using ETL, Javascript, HTML, and interactive elements to analyze and display dat
 
 ![Proposal/landingResize.png](Proposal/landingResize.png)
     
-
-[https://github.com/ladyj-dev/D3_Team_Project2.git](https://github.com/ladyj-dev/D3_Team_Project2.git)
+ [https://ladyj-dev.github.io/D3_Team_Project2/](https://ladyj-dev.github.io/D3_Team_Project2/)
 
 
 
