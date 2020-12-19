@@ -1,0 +1,19 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 1200px;
+  height: 500px;
+  margin-left:auto;
+  /* margin-right:auto; */
+}
+
+{
+  box-sizing: border-box;
+  font-family: Ubuntu, sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  padding: 60;
+  margin: 60;
+}
